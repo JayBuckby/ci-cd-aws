@@ -5,9 +5,7 @@ Give a brief overview of the project.
 
 This project allows the users to make changes locally to their codebase and once they are ready to be pushed
 ​
-
-## Demo
-
+![ProjectDemo](projectdemo.gif)
 ​
 Research how you can create Gifs from screen recordings, demo the following:
 ​
